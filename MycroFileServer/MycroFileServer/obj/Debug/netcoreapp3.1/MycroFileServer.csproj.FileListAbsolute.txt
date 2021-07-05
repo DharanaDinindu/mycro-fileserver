@@ -1,0 +1,40 @@
+C:\Users\dinud\source\repos\MycroFileServer\MycroFileServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dinud\source\repos\MycroFileServer\MycroFileServer\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dinud\source\repos\MycroFileServer\MycroFileServer\bin\Debug\netcoreapp3.1\MycroFileServer.exe
+C:\Users\dinud\source\repos\MycroFileServer\MycroFileServer\bin\Debug\netcoreapp3.1\MycroFileServer.deps.json
+C:\Users\dinud\source\repos\MycroFileServer\MycroFileServer\bin\Debug\netcoreapp3.1\MycroFileServer.runtimeconfig.json
+C:\Users\dinud\source\repos\MycroFileServer\MycroFileServer\bin\Debug\netcoreapp3.1\MycroFileServer.runtimeconfig.dev.json
+C:\Users\dinud\source\repos\MycroFileServer\MycroFileServer\bin\Debug\netcoreapp3.1\MycroFileServer.dll
+C:\Users\dinud\source\repos\MycroFileServer\MycroFileServer\bin\Debug\netcoreapp3.1\MycroFileServer.pdb
+C:\Users\dinud\source\repos\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\MycroFileServer.csprojAssemblyReference.cache
+C:\Users\dinud\source\repos\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\MycroFileServer.AssemblyInfoInputs.cache
+C:\Users\dinud\source\repos\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\MycroFileServer.AssemblyInfo.cs
+C:\Users\dinud\source\repos\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\MycroFileServer.csproj.CoreCompileInputs.cache
+C:\Users\dinud\source\repos\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\MycroFileServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dinud\source\repos\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\staticwebassets\MycroFileServer.StaticWebAssets.Manifest.cache
+C:\Users\dinud\source\repos\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\staticwebassets\MycroFileServer.StaticWebAssets.xml
+C:\Users\dinud\source\repos\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\scopedcss\bundle\MycroFileServer.styles.css
+C:\Users\dinud\source\repos\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\MycroFileServer.RazorTargetAssemblyInfo.cache
+C:\Users\dinud\source\repos\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\MycroFileServer.dll
+C:\Users\dinud\source\repos\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\MycroFileServer.pdb
+C:\Users\dinud\source\repos\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\MycroFileServer.genruntimeconfig.cache
+E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\bin\Debug\netcoreapp3.1\appsettings.json
+E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\bin\Debug\netcoreapp3.1\MycroFileServer.exe
+E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\bin\Debug\netcoreapp3.1\MycroFileServer.deps.json
+E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\bin\Debug\netcoreapp3.1\MycroFileServer.runtimeconfig.json
+E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\bin\Debug\netcoreapp3.1\MycroFileServer.runtimeconfig.dev.json
+E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\bin\Debug\netcoreapp3.1\MycroFileServer.dll
+E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\bin\Debug\netcoreapp3.1\MycroFileServer.pdb
+E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\MycroFileServer.csprojAssemblyReference.cache
+E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\MycroFileServer.AssemblyInfoInputs.cache
+E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\MycroFileServer.AssemblyInfo.cs
+E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\MycroFileServer.csproj.CoreCompileInputs.cache
+E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\MycroFileServer.MvcApplicationPartsAssemblyInfo.cache
+E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\staticwebassets\MycroFileServer.StaticWebAssets.Manifest.cache
+E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\staticwebassets\MycroFileServer.StaticWebAssets.xml
+E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\scopedcss\bundle\MycroFileServer.styles.css
+E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\MycroFileServer.RazorTargetAssemblyInfo.cache
+E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\MycroFileServer.dll
+E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\MycroFileServer.pdb
+E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\MycroFileServer.genruntimeconfig.cache

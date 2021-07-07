@@ -26,7 +26,6 @@ E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFil
 E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\bin\Debug\netcoreapp3.1\MycroFileServer.runtimeconfig.dev.json
 E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\bin\Debug\netcoreapp3.1\MycroFileServer.dll
 E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\bin\Debug\netcoreapp3.1\MycroFileServer.pdb
-E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\MycroFileServer.csprojAssemblyReference.cache
 E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\MycroFileServer.AssemblyInfoInputs.cache
 E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\MycroFileServer.AssemblyInfo.cs
 E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\MycroFileServer.csproj.CoreCompileInputs.cache
@@ -38,3 +37,4 @@ E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFil
 E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\MycroFileServer.dll
 E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\MycroFileServer.pdb
 E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\MycroFileServer.genruntimeconfig.cache
+E:\OneDrive - 99X Technology\Documents\99x\first-assignment\file-server\MycroFileServer\MycroFileServer\obj\Debug\netcoreapp3.1\MycroFileServer.csproj.AssemblyReference.cache

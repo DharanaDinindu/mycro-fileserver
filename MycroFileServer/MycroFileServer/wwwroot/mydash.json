@@ -1,10 +1,4 @@
 {
-  "app1": {
-    "appId": "productsList",
-    "appName": "Products List"
-  },
-
-  "app2": {
     "appId": "myDash",
     "appName": "My Dash",
     "components": [
@@ -15,6 +9,4 @@
         "appMatch": "gettingStarted"
       }
     ]
-  }
-  
 }

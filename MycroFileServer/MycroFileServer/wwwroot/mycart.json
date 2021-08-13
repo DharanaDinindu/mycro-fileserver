@@ -1,0 +1,12 @@
+{
+    "appId": "myCart",
+    "appName": "My Cart",
+    "components": [
+      {
+        "appMatch": "productsList"
+      },
+      {
+        "appMatch": "cartApp"
+      }
+    ]
+}
